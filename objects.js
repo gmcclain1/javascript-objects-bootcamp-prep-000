@@ -1,3 +1,1 @@
-var meals = {
-  breakfast: "oatmeal"
-};
+var playlist = {};
